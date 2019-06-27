@@ -5,4 +5,4 @@
 
 Hello. world
 
-pull text
+pull test
